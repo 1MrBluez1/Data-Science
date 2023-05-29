@@ -25,4 +25,4 @@ Data scientists and machine learning practitioners typically follow a general wo
 
 Machine learning is a powerful tool for extracting insights and making predictions from complex and large-scale datasets. It finds applications in various domains, including image and speech recognition, natural language processing, recommendation systems, fraud detection, and many others.
 
-### In this repo you will find various examples of previous work completed utilizing data analysis and problem solving techniques.
+### In this repo you will find various examples of previous work completed utilizing data analysis and various problem solving techniques.
